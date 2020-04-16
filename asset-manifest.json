@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sklad1/static/css/main.8311d667.chunk.css",
+    "main.js": "/sklad1/static/js/main.a9546e43.chunk.js",
+    "main.js.map": "/sklad1/static/js/main.a9546e43.chunk.js.map",
+    "runtime-main.js": "/sklad1/static/js/runtime-main.3cd2754a.js",
+    "runtime-main.js.map": "/sklad1/static/js/runtime-main.3cd2754a.js.map",
+    "static/js/2.0274f38a.chunk.js": "/sklad1/static/js/2.0274f38a.chunk.js",
+    "static/js/2.0274f38a.chunk.js.map": "/sklad1/static/js/2.0274f38a.chunk.js.map",
+    "static/js/3.284afc1c.chunk.js": "/sklad1/static/js/3.284afc1c.chunk.js",
+    "static/js/3.284afc1c.chunk.js.map": "/sklad1/static/js/3.284afc1c.chunk.js.map",
+    "static/js/4.271830b5.chunk.js": "/sklad1/static/js/4.271830b5.chunk.js",
+    "static/js/4.271830b5.chunk.js.map": "/sklad1/static/js/4.271830b5.chunk.js.map",
+    "index.html": "/sklad1/index.html",
+    "precache-manifest.426bb3084c1dec72f203c00a558f8963.js": "/sklad1/precache-manifest.426bb3084c1dec72f203c00a558f8963.js",
+    "service-worker.js": "/sklad1/service-worker.js",
+    "static/css/main.8311d667.chunk.css.map": "/sklad1/static/css/main.8311d667.chunk.css.map",
+    "static/js/2.0274f38a.chunk.js.LICENSE.txt": "/sklad1/static/js/2.0274f38a.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/sklad1/static/media/themify.e23a7dca.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cd2754a.js",
+    "static/js/2.0274f38a.chunk.js",
+    "static/css/main.8311d667.chunk.css",
+    "static/js/main.a9546e43.chunk.js"
+  ]
+}
